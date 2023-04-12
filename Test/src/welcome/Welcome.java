@@ -8,6 +8,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
 		JOptionPane.showMessageDialog(null, "Welcome to JAVA programming");
 		System.out.println("Welcome to JAVA programming");
+		System.out.println("Welcome to GIT Hub");
 
 	}
 
